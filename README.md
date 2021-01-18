@@ -5,6 +5,16 @@
 
 ![GitHub Repo stars](https://img.shields.io/badge/pip--pipo-Robot--app-%3Cred%3E)
 
+
+
+
+## [Api end point Link](https://robohash.org/d.png?size=200x200)
+
+## Build Version in Netlify
+[https://robot-army-pwa.netlify.app/](https://robot-army-pwa.netlify.app/)
+
+
+
 # start with
 ```
 npm start
@@ -69,3 +79,6 @@ yarn start
 }
 
 ```
+
+
+<img src="./robot-final.png" alt="final-image">
